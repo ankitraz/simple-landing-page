@@ -610,3 +610,15 @@ h3 {
     grid-template-columns: repeat(4, 1fr);
   }
 }
+
+/* footer section */
+
+.footer {
+  background: #f1f1f1;
+  padding: 1rem;
+}
+
+.footer > p {
+  text-align: center;
+  padding: 2rem;
+}
