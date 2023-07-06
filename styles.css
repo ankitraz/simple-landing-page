@@ -325,7 +325,7 @@ h3 {
 }
 
 .collapsible__header, .collapsible__content {
-  margin-left: 1.5rem;
+  margin: auto;
 }
 
 @media screen and (min-width: 768px) {
